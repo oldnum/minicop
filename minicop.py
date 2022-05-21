@@ -19,7 +19,7 @@ except ImportError as err:
 # Analisa args
 parser = argparse.ArgumentParser(description="Minicop HTTP Attack")
 parser.add_argument(
-    "--target",
+    "--target","-t"
     type=str,
     metavar="<URL>",
     help="Target URL",

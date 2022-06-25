@@ -17,5 +17,9 @@
 # English
 Everything written here is written solely for educational and research purposes, as well as to understand the mechanisms of protection against hacking. We hope that this program will help you to better organize your security on the Internet, forewarned is forearmed. The author of @oldnum does not in any way recommend using this information for hacking :/ Keep in mind, the FBI is watching you :|
 
-# Donate:
-Payeer: P1061248421
+#  Donate:
+btc: 3LXDKcrjVXxpGhWXEnVMnndJP45nos2LBS
+
+eth: 0x7b6788a41F5379f49633a368FA902d47D318E4eC
+
+payeer: P1061248421
